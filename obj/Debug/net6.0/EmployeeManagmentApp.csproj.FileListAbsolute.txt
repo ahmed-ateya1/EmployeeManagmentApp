@@ -1,0 +1,42 @@
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.AssemblyInfoInputs.cache
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.AssemblyInfo.cs
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.exe
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.deps.json
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.runtimeconfig.json
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.pdb
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\refint\EmployeeManagmentApp.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.pdb
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.genruntimeconfig.cache
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\ref\EmployeeManagmentApp.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.exe
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.deps.json
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.runtimeconfig.json
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.pdb
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.AssemblyInfoInputs.cache
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.AssemblyInfo.cs
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\refint\EmployeeManagmentApp.dll
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.pdb
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.genruntimeconfig.cache
+C:\Users\Eng Ahmed Atya\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\OOP Project\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\ref\EmployeeManagmentApp.dll
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.exe
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.deps.json
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.runtimeconfig.json
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.dll
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\bin\Debug\net6.0\EmployeeManagmentApp.pdb
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.AssemblyInfoInputs.cache
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.AssemblyInfo.cs
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.csproj.CoreCompileInputs.cache
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.dll
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\refint\EmployeeManagmentApp.dll
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.pdb
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\EmployeeManagmentApp.genruntimeconfig.cache
+C:\Project OOP\EmployeeManagmentApp\EmployeeManagmentApp\obj\Debug\net6.0\ref\EmployeeManagmentApp.dll
